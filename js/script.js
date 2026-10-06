@@ -202,7 +202,7 @@ $(document).ready(function () {
       formMessage
         .removeClass("d-none alert-success")
         .addClass("alert-danger")
-        .text("Please check kembali data yang kamu masukkan.")
+        .text("Mohon periksa kembali data yang Anda masukkan.")
         .hide()
         .fadeIn(300);
 
