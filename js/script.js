@@ -256,7 +256,7 @@ $(document).ready(function () {
 
   console.log(
     "%c REDI. ",
-    "background:#681f2b;color:#fff;padding:8px 12px;border-radius:5px;font-weight:bold;",
+    "background:#0a0a0a;color:#ffd60a;padding:8px 12px;border:2px solid #0a0a0a;font-weight:bold;font-family:monospace;",
   );
 
   console.log("Thanks for checking out my portfolio.");
